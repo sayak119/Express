@@ -1,0 +1,4953 @@
+[
+	{
+		"type": "group",
+		"title": "General",
+		"slug": "general",
+		"parents": [],
+		"color": "#93B4DB"
+	},
+	{
+		"type": "group",
+		"title": "People",
+		"slug": "people",
+		"parents": [],
+		"color": "#8CC7D9"
+	},
+	{
+		"type": "group",
+		"title": "Foods",
+		"slug": "foods",
+		"parents": [],
+		"color": "#9B8EC3"
+	},
+	{
+		"type": "group",
+		"title": "Feelings",
+		"slug": "feelings",
+		"parents": [],
+		"color": "#CC99C4"
+	},
+	{
+		"type": "group",
+		"title": "Activities",
+		"slug": "activities",
+		"parents": [],
+		"color": "#99CCA1"
+	},
+	{
+		"type": "group",
+		"title": "Places",
+		"slug": "places",
+		"parents": [],
+		"color": "#FFC300"
+	},
+	{
+		"type": "group",
+		"title": "School",
+		"slug": "school",
+		"parents": [],
+		"color": "#99CBCC"
+	},
+	{
+		"type": "group",
+		"title": "Animals",
+		"slug": "animals",
+		"parents": [],
+		"color": "#FF5733"
+	},
+	{
+		"type": "group",
+		"title": "Numbers",
+		"slug": "numbers",
+		"parents": [],
+		"color": "#ccc899"
+	},
+	{
+		"type": "group",
+		"title": "Alphabets",
+		"slug": "alphabets",
+		"parents": [],
+		"color": "#AF73F3"
+	},
+	{
+		"type": "card",
+		"title": "School",
+		"slug": "schoolb",
+		"parents": [
+			"places"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I want to go to school."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Please drive me to school."
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Home",
+		"slug": "home",
+		"parents": [
+			"places"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I want to go back to my home."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I am missing my home."
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Bus Stop",
+		"slug": "busstop",
+		"parents": [
+			"places"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "Can you tell me where is the bus stop?"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "When will the bus arrive?"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Railway Station",
+		"slug": "train",
+		"parents": [
+			"places"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "When will the train arrive?"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Can you tell me where is the railway station?"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Police Station",
+		"slug": "policestation",
+		"parents": [
+			"places"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I want to go to the police station."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Can you tell me where is the police station?"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Hospital",
+		"slug": "hospital",
+		"parents": [
+			"places"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "When do we have to go to the hospital."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Can you tell me where is the nearby hospital?"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Park",
+		"slug": "park",
+		"parents": [
+			"places"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I want to go to the park."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Can you tell me where is the park?"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "When will we go to the park?"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Mall",
+		"slug": "mall",
+		"parents": [
+			"places"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I want to go to the mall."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Can you tell me where is the mall?"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Church",
+		"slug": "church",
+		"parents": [
+			"places"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I want to go to the church."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Can you tell me where is the church?"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "When will we go to the church?"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Temple",
+		"slug": "temple",
+		"parents": [
+			"places"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I want to go to the temple."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Can you tell me where is the temple?"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "When will we go to the temple?"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Mosque",
+		"slug": "mosque",
+		"parents": [
+			"places"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I want to go to the mosque."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Can you tell me where is the mosque?"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "When will we go to the mosque?"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Mountain",
+		"slug": "mountain",
+		"parents": [
+			"places"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I want to go to a hill station."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Mountains are beautiful."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "How tall is that mountain?"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "It is cold in the mountains."
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Desert",
+		"slug": "desert",
+		"parents": [
+			"places"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "It is very hot in the desert."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Camels are found in deserts."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "There is sand in the desert."
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Beach",
+		"slug": "beach",
+		"parents": [
+			"places"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I want to go to a beach."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Beaches are beautiful."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "When will we go to the beach?"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I love the sea."
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Forest",
+		"slug": "forest",
+		"parents": [
+			"places"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I want to go to a forest."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Forests are beautiful."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "There are many trees in the forest."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "There are many animals in the forest."
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Waterfall",
+		"slug": "waterfall",
+		"parents": [
+			"places"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I want to go see a waterfall."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Waterfalls are beautiful."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "How high is that waterfall?"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Don't go near that waterfall."
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "River",
+		"slug": "river",
+		"parents": [
+			"places"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I want to visit the riverside."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Rivers are beautiful."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "The river is dirty."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "There are fish in the river."
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Countryside",
+		"slug": "countryside",
+		"parents": [
+			"places"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I want to go visit a countryside."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I saw a beautiful countryside picture."
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Bridge",
+		"slug": "bridge",
+		"parents": [
+			"places"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "There is a bridge."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "It is a long bridge."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I want to visit the bridge."
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "City",
+		"slug": "city",
+		"parents": [
+			"places"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I want to go to the city."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "My school is near the city."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "My home is near the city."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "My parents work in the city."
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Help Me",
+		"slug": "help",
+		"parents": [
+			"general"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "Can you help me?"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Can I help you?"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Stop",
+		"slug": "stop",
+		"parents": [
+			"general"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "Please stop."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Should I stop?"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Hot",
+		"slug": "hot",
+		"parents": [
+			"general"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "It is hot."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I can't eat it. It is hot."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I can't touch it. It is hot."
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Cold",
+		"slug": "cold",
+		"parents": [
+			"general"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "It is cold."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I can't eat it. It is cold."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I can't touch it. It is cold."
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Up or Increase",
+		"slug": "up",
+		"parents": [
+			"general"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "Increase the temperature."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Go up."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Don't go up."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I want to go up."
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Down or decrease",
+		"slug": "down",
+		"parents": [
+			"general"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "Decrease the temperature."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Go down."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Don't go down."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I want to go down."
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Right",
+		"slug": "right",
+		"parents": [
+			"general"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "Go right."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Don't go right."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I want to go right."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I don't want to go right."
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Left",
+		"slug": "left",
+		"parents": [
+			"general"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "Go left."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Don't go left."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I want to go left."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I don't want to go left."
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Fire",
+		"slug": "fire",
+		"parents": [
+			"general"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "There is a fire."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I want to warm something up."
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Laptop",
+		"slug": "laptop",
+		"parents": [
+			"general"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "Where is the laptop?"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Can you help me with my laptop?"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Mobile Phone",
+		"slug": "smartphone",
+		"parents": [
+			"general"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "Mobile Phone"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I want to call somebody."
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Map",
+		"slug": "map",
+		"parents": [
+			"general"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "Can you tell me the location?"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I am lost. Can you help me?"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Hungry",
+		"slug": "hungry",
+		"parents": [
+			"general",
+			"foods"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I'm hungry!"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Are you hungry?"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Can you make me some food?"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Thirsty",
+		"slug": "thirsty",
+		"parents": [
+			"general",
+			"foods"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I'm thirsty!"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Are you thirsty?"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Can I have some water?"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I want something to drink!"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Snake",
+		"slug": "snake",
+		"parents": [
+			"animals"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I saw a snake."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I don't like snakes."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "What do snakes eat?"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "A",
+		"slug": "a",
+		"parents": [
+			"alphabets"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "A"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "It is a vowel."
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "B",
+		"slug": "b",
+		"parents": [
+			"alphabets"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "B"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "It is a consonant."
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "C",
+		"slug": "c",
+		"parents": [
+			"alphabets"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "C"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "It is a consonant."
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "D",
+		"slug": "d",
+		"parents": [
+			"alphabets"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "D"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "It is a consonant."
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "E",
+		"slug": "e",
+		"parents": [
+			"alphabets"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "E"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "It is a vowel."
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "F",
+		"slug": "f",
+		"parents": [
+			"alphabets"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "F"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "It is a consonant."
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "G",
+		"slug": "g",
+		"parents": [
+			"alphabets"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "G"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "It is a consonant."
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "H",
+		"slug": "h",
+		"parents": [
+			"alphabets"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "H"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "It is a consonant."
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "I",
+		"slug": "i",
+		"parents": [
+			"alphabets"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "It is a vowel."
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "J",
+		"slug": "j",
+		"parents": [
+			"alphabets"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "J"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "It is a consonant."
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "K",
+		"slug": "k",
+		"parents": [
+			"alphabets"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "K"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "It is a consonant."
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "L",
+		"slug": "l",
+		"parents": [
+			"alphabets"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "L"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "It is a consonant."
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "M",
+		"slug": "m",
+		"parents": [
+			"alphabets"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "M"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "It is a consonant."
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "N",
+		"slug": "n",
+		"parents": [
+			"alphabets"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "N"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "It is a consonant."
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "O",
+		"slug": "o",
+		"parents": [
+			"alphabets"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "O"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "It is a vowel."
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "P",
+		"slug": "p",
+		"parents": [
+			"alphabets"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "P"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "It is a consonant."
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Q",
+		"slug": "q",
+		"parents": [
+			"alphabets"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "Q"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "It is a consonant."
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "R",
+		"slug": "r",
+		"parents": [
+			"alphabets"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "R"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "It is a consonant."
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "S",
+		"slug": "s",
+		"parents": [
+			"alphabets"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "S"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "It is a consonant."
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "T",
+		"slug": "t",
+		"parents": [
+			"alphabets"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "T"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "It is a consonant."
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "U",
+		"slug": "u",
+		"parents": [
+			"alphabets"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "U"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "It is a vowel."
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "V",
+		"slug": "v",
+		"parents": [
+			"alphabets"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "V"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "It is a consonant."
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "W",
+		"slug": "w",
+		"parents": [
+			"alphabets"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "W"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "It is a consonant."
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "X",
+		"slug": "x",
+		"parents": [
+			"alphabets"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "X"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "It is a consonant."
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Y",
+		"slug": "y",
+		"parents": [
+			"alphabets"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "Y"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "It is a consonant."
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Z",
+		"slug": "z",
+		"parents": [
+			"alphabets"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "Z"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "It is a consonant."
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Toilet",
+		"slug": "toilet",
+		"parents": [
+			"general"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I need to use the toilet!"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Can you take me to the toilet?"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I need to poo"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I need to pee"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "What?",
+		"slug": "what",
+		"parents": [
+			"general"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "What do you mean?"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "What does that mean?"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Yes",
+		"slug": "yes",
+		"parents": [
+			"general"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "OK!"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "All right"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I agree!"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Right"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "No",
+		"slug": "no",
+		"parents": [
+			"general"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "Nope!"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Negative"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I don't agree!"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Wrong"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Hello",
+		"slug": "hello",
+		"parents": [
+			"general"
+		]
+	},
+	{
+		"type": "card",
+		"title": "Sleep",
+		"slug": "sleep",
+		"parents": [
+			"general"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I need to sleep"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I want to sleep"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Bath",
+		"slug": "bath",
+		"parents": [
+			"general"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I want to take a bath"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Help me take a shower"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Morning",
+		"slug": "morning",
+		"parents": [
+			"general"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "Good morning"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "In the morning"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Night",
+		"slug": "night",
+		"parents": [
+			"general"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "Good night"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "At night"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Listen",
+		"slug": "listen",
+		"parents": [
+			"general"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "Listen to me"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I'm listening to you"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Outside",
+		"slug": "outside",
+		"parents": [
+			"general"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I want to go outside"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Can you take me outside?"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Clothes",
+		"slug": "clothes",
+		"parents": [
+			"general"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "Wearing clothes"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "My clothes are dirty"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Can you give me some clothes to wear?"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Can you help me get dressed?"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Home",
+		"slug": "home",
+		"parents": [
+			"general"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I want to go home"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I love my home"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Hurt",
+		"slug": "hurt",
+		"parents": [
+			"general"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I hurt myself"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I need a band aid"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "It hurts"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Happy",
+		"slug": "happy",
+		"parents": [
+			"feelings"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I feel happy"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Do you feel happy?"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Sad",
+		"slug": "sad",
+		"parents": [
+			"feelings"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I feel sad"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Do you feel sad?"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Exhausted",
+		"slug": "exhausted",
+		"parents": [
+			"feelings"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I feel exhausted"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Do you feel exhausted?"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Relaxed",
+		"slug": "relaxed",
+		"parents": [
+			"feelings"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I feel relaxed"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Do you feel relaxed?"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "In Love",
+		"slug": "inlove",
+		"parents": [
+			"feelings"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I am in love"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Are you in love?"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Stressed",
+		"slug": "stressed",
+		"parents": [
+			"feelings"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I feel stressed"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Do you feel stressed?"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Thankful",
+		"slug": "thankful",
+		"parents": [
+			"feelings"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I feel thankful"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Do you feel thankful?"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Confused",
+		"slug": "confused",
+		"parents": [
+			"feelings"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I feel confused"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Do you feel confused?"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Joyful",
+		"slug": "joyful",
+		"parents": [
+			"feelings"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I feel joyful"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Do you feel joyful?"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Angry",
+		"slug": "angry",
+		"parents": [
+			"feelings"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I feel angry"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Do you feel angry?"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Smart",
+		"slug": "smart",
+		"parents": [
+			"feelings"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I feel smart"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Do you feel smart?"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Afraid",
+		"slug": "afraid",
+		"parents": [
+			"feelings"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I feel afraid"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Do you feel afraid?"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Ashamed",
+		"slug": "ashamed",
+		"parents": [
+			"feelings"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I feel ashamed"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Do you feel ashamed?"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Shocked",
+		"slug": "shocked",
+		"parents": [
+			"feelings"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I feel shocked"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Do you feel shocked?"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Sick",
+		"slug": "sick",
+		"parents": [
+			"feelings"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I feel sick"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Do you feel sick?"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Frustrated",
+		"slug": "frustrated",
+		"parents": [
+			"feelings"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I feel frustrated"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Do you feel frustrated?"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Apple",
+		"slug": "apple",
+		"parents": [
+			"foods"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I want to eat an apple"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I don't want to eat an apple"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Do you want to eat an apple?"
+			},
+			{
+				"symbol": "like",
+				"phrase": "I like eating apples"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Orange",
+		"slug": "orange",
+		"parents": [
+			"foods"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I want to eat an orange"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I don't want to eat an orange"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Do you want to eat an orange?"
+			},
+			{
+				"symbol": "like",
+				"phrase": "I like eating oranges"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Cutlery",
+		"slug": "utensils",
+		"parents": [
+			"foods"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "Can you help me use my cutlery?"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Can you give me some cutlery?"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Water",
+		"slug": "water",
+		"parents": [
+			"foods"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I want to drink some water"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I don't want to drink water"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Do you want to drink some water?"
+			},
+			{
+				"symbol": "like",
+				"phrase": "I like drinking water"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Tomato",
+		"slug": "tomato",
+		"parents": [
+			"foods"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I want to eat tomatoes"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I don't want to eat tomatoes"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Do you want to eat tomatoes?"
+			},
+			{
+				"symbol": "like",
+				"phrase": "I like eating tomatoes"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Potato",
+		"slug": "potato",
+		"parents": [
+			"foods"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I want to eat potatoes"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I don't want to eat potatoes"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Do you want to eat potatoes?"
+			},
+			{
+				"symbol": "like",
+				"phrase": "I like eating potatoes"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Steak",
+		"slug": "steak",
+		"parents": [
+			"foods"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I want to eat steak"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I don't want to eat steak"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Do you want to eat steak?"
+			},
+			{
+				"symbol": "like",
+				"phrase": "I like eating steak"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Pizza",
+		"slug": "pizza",
+		"parents": [
+			"foods"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I want to eat pizza"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I don't want to eat pizza"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Do you want to eat pizza?"
+			},
+			{
+				"symbol": "like",
+				"phrase": "I like eating pizza"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Hamburger",
+		"slug": "hamburger",
+		"parents": [
+			"foods"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I want to eat a hamburger"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I don't want to eat a hamburger"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Do you want to eat a hamburger?"
+			},
+			{
+				"symbol": "like",
+				"phrase": "I like eating hamburgers"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Fries",
+		"slug": "fries",
+		"parents": [
+			"foods"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I want to eat fries"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I don't want to eat fries"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Do you want to eat fries?"
+			},
+			{
+				"symbol": "like",
+				"phrase": "I like eating fries"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Ice Cream",
+		"slug": "icecream",
+		"parents": [
+			"foods"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I want to eat ice cream"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I don't want to eat ice cream"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Do you want to eat ice cream?"
+			},
+			{
+				"symbol": "like",
+				"phrase": "I like eating ice cream"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Cookie",
+		"slug": "cookie",
+		"parents": [
+			"foods"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I want to eat a cookie"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I don't want to eat a cookie"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Do you want to eat cookies?"
+			},
+			{
+				"symbol": "like",
+				"phrase": "I like eating cookies"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Cereal",
+		"slug": "cereal",
+		"parents": [
+			"foods"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I want to eat cereal"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I don't want to eat cereal"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Do you want to eat cereal?"
+			},
+			{
+				"symbol": "like",
+				"phrase": "I like eating cereal"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Fried Egg",
+		"slug": "friedegg",
+		"parents": [
+			"foods"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I want to eat a fried egg"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I don't want to eat a fried egg"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Do you want to eat a fried egg?"
+			},
+			{
+				"symbol": "like",
+				"phrase": "I like eating fried eggs"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Boiled Egg",
+		"slug": "boiledegg",
+		"parents": [
+			"foods"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I want to eat a boiled egg"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I don't want to eat a boiled egg"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Do you want to eat a boiled egg?"
+			},
+			{
+				"symbol": "like",
+				"phrase": "I like eating boiled eggs"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Cheese",
+		"slug": "cheese",
+		"parents": [
+			"foods"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I want to eat cheese"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I don't want to eat cheese"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Do you want to eat cheese?"
+			},
+			{
+				"symbol": "like",
+				"phrase": "I like eating cheese"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Chicken",
+		"slug": "chicken",
+		"parents": [
+			"foods"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I want to eat chicken"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I don't want to eat chicken"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Do you want to eat chicken?"
+			},
+			{
+				"symbol": "like",
+				"phrase": "I like eating chicken"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Sandwich",
+		"slug": "sandwich",
+		"parents": [
+			"foods"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I want to eat a sandwich"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I don't want to eat a sandwich"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Do you want to eat a sandwich?"
+			},
+			{
+				"symbol": "like",
+				"phrase": "I like eating sandwiches"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Salad",
+		"slug": "salad",
+		"parents": [
+			"foods"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I want to eat salad"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I don't want to eat salad"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Do you want to eat salad?"
+			},
+			{
+				"symbol": "like",
+				"phrase": "I like eating salad"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Bread",
+		"slug": "bread",
+		"parents": [
+			"foods"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I want to eat bread"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I don't want to eat bread"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Do you want to eat bread?"
+			},
+			{
+				"symbol": "like",
+				"phrase": "I like eating bread"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Carrot",
+		"slug": "carrot",
+		"parents": [
+			"foods"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I want to eat a carrot"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I don't want to eat a carrot"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Do you want to eat a carrot?"
+			},
+			{
+				"symbol": "like",
+				"phrase": "I like eating carrots"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Candy",
+		"slug": "candy",
+		"parents": [
+			"foods"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I want to eat candy"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I don't want to eat candy"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Do you want to eat candy?"
+			},
+			{
+				"symbol": "like",
+				"phrase": "I like eating candy"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Cake",
+		"slug": "cake",
+		"parents": [
+			"foods"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I want to eat cake"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I don't want to eat cake"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Do you want to eat cake?"
+			},
+			{
+				"symbol": "like",
+				"phrase": "I like eating cake"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Broccoli",
+		"slug": "broccoli",
+		"parents": [
+			"foods"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I want to eat broccoli"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I don't want to eat broccoli"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Do you want to eat broccoli?"
+			},
+			{
+				"symbol": "like",
+				"phrase": "I like eating broccoli"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Cherries",
+		"slug": "cherries",
+		"parents": [
+			"foods"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I want to eat cherries"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I don't want to eat cherries"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Do you want to eat cherries?"
+			},
+			{
+				"symbol": "like",
+				"phrase": "I like eating cherries"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Beans",
+		"slug": "beans",
+		"parents": [
+			"foods"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I want to eat beans"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I don't want to eat beans"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Do you want to eat beans?"
+			},
+			{
+				"symbol": "like",
+				"phrase": "I like eating beans"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Banana",
+		"slug": "banana",
+		"parents": [
+			"foods"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I want to eat a banana"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I don't want to eat a banana"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Do you want to eat a banana?"
+			},
+			{
+				"symbol": "like",
+				"phrase": "I like eating bananas"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Chocolate",
+		"slug": "chocolate",
+		"parents": [
+			"foods"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I want to eat chocolate"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I don't want to eat chocolate"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Do you want to eat chocolate?"
+			},
+			{
+				"symbol": "like",
+				"phrase": "I like eating chocolate"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Coke",
+		"slug": "coke",
+		"parents": [
+			"foods"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I want to drink coke"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I don't want to drink coke"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Do you want to drink coke?"
+			},
+			{
+				"symbol": "like",
+				"phrase": "I like drinking coke"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Cupcake",
+		"slug": "cupcake",
+		"parents": [
+			"foods"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I want to eat a cupcake"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I don't want to eat a cupcake"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Do you want to eat a cupcake?"
+			},
+			{
+				"symbol": "like",
+				"phrase": "I like eating cupcakes"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Doughnut",
+		"slug": "doughnut",
+		"parents": [
+			"foods"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I want to eat a doughnut"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I don't want to eat a doughnut"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Do you want to eat a doughnut?"
+			},
+			{
+				"symbol": "like",
+				"phrase": "I like eating doughnuts"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Fish",
+		"slug": "fish",
+		"parents": [
+			"foods"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I want to eat fish"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I don't want to eat fish"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Do you want to eat fish?"
+			},
+			{
+				"symbol": "like",
+				"phrase": "I like eating fish"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Sushi",
+		"slug": "sushi",
+		"parents": [
+			"foods"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I want to eat sushi"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I don't want to eat sushi"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Do you want to eat sushi?"
+			},
+			{
+				"symbol": "like",
+				"phrase": "I like eating sushi"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Corn",
+		"slug": "corn",
+		"parents": [
+			"foods"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I want to eat corn"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I don't want to eat corn"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Do you want to eat corn?"
+			},
+			{
+				"symbol": "like",
+				"phrase": "I like eating corn"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Lemon",
+		"slug": "lemon",
+		"parents": [
+			"foods"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I want to eat a lemon"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I don't want to eat a lemon"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Do you want to eat a lemon?"
+			},
+			{
+				"symbol": "like",
+				"phrase": "I like eating lemons"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Mustard",
+		"slug": "mustard",
+		"parents": [
+			"foods"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I want mustard with my food"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I don't want mustard with my food"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Do you want some mustard?"
+			},
+			{
+				"symbol": "like",
+				"phrase": "I like mustard with my food"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Peach",
+		"slug": "peach",
+		"parents": [
+			"foods"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I want to eat a peach"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I don't want to eat a peach"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Do you want to eat a peach?"
+			},
+			{
+				"symbol": "like",
+				"phrase": "I like eating peaches"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Pineapple",
+		"slug": "pineapple",
+		"parents": [
+			"foods"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I want to eat pineapple"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I don't want to eat pineapple"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Do you want to eat pineapple?"
+			},
+			{
+				"symbol": "like",
+				"phrase": "I like eating pineapple"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Raspberries",
+		"slug": "raspberry",
+		"parents": [
+			"foods"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I want to eat raspberries"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I don't want to eat raspberries"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Do you want to eat raspberries?"
+			},
+			{
+				"symbol": "like",
+				"phrase": "I like eating raspberries"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Strawberries",
+		"slug": "strawberry",
+		"parents": [
+			"foods"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I want to eat strawberries"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I don't want to eat strawberries"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Do you want to eat strawberries?"
+			},
+			{
+				"symbol": "like",
+				"phrase": "I like eating strawberries"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Watermelon",
+		"slug": "watermelon",
+		"parents": [
+			"foods"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I want to eat watermelon"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I don't want to eat watermelon"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Do you want to eat watermelon?"
+			},
+			{
+				"symbol": "like",
+				"phrase": "I like eating watermelon"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Grapes",
+		"slug": "grapes",
+		"parents": [
+			"foods"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I want to eat grapes"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I don't want to eat grapes"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Do you want to eat grapes?"
+			},
+			{
+				"symbol": "like",
+				"phrase": "I like eating grapes"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Avocado",
+		"slug": "avocado",
+		"parents": [
+			"foods"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I want to eat an avocado"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I don't want to eat an avocado"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Do you want to eat an avocado?"
+			},
+			{
+				"symbol": "like",
+				"phrase": "I like eating avocado"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Rice",
+		"slug": "rice",
+		"parents": [
+			"foods"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I want to eat rice"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I don't want to eat rice"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Do you want to eat rice?"
+			},
+			{
+				"symbol": "like",
+				"phrase": "I like eating rice"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Spaghetti",
+		"slug": "spaghetti",
+		"parents": [
+			"foods"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I want to eat spaghetti"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I don't want to eat spaghetti"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Do you want to eat spaghetti?"
+			},
+			{
+				"symbol": "like",
+				"phrase": "I like eating spaghetti"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Milk",
+		"slug": "milk",
+		"parents": [
+			"foods"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I want to drink milk"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I don't want to drink milk"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Do you want to drink milk?"
+			},
+			{
+				"symbol": "like",
+				"phrase": "I like drinking milk"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Tea",
+		"slug": "tea",
+		"parents": [
+			"foods"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I want to drink tea"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I don't want to drink tea"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Do you want to drink tea?"
+			},
+			{
+				"symbol": "like",
+				"phrase": "I like drinking tea"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Honey",
+		"slug": "honey",
+		"parents": [
+			"foods"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I want to eat honey"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I don't want to eat honey"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Do you want to eat honey?"
+			},
+			{
+				"symbol": "like",
+				"phrase": "I like eating honey"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Kebab",
+		"slug": "kebab",
+		"parents": [
+			"foods"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I want to eat a kebab"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I don't want to eat a kebab"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Do you want to eat a kebab?"
+			},
+			{
+				"symbol": "like",
+				"phrase": "I like eating kebabs"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Taco",
+		"slug": "taco",
+		"parents": [
+			"foods"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I want to eat tacos"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I don't want to eat tacos"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Do you want to eat tacos?"
+			},
+			{
+				"symbol": "like",
+				"phrase": "I like eating tacos"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Mother",
+		"slug": "mother",
+		"parents": [
+			"people"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I love my mother"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I want to see my mother"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Father",
+		"slug": "father",
+		"parents": [
+			"people"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I love my father"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I want to see my father"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Parents",
+		"slug": "parents",
+		"parents": [
+			"people"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I love my parents"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I want to see my parents"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Grandparents",
+		"slug": "grandparents",
+		"parents": [
+			"people"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I love my grandparents"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I want to see my grandparents"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Brother",
+		"slug": "brother",
+		"parents": [
+			"people"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I love my brother"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I want to see my brother"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Sister",
+		"slug": "sister",
+		"parents": [
+			"people"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I love my sister"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I want to see my sister"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Uncle",
+		"slug": "uncle",
+		"parents": [
+			"people"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I love my uncle"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I want to see my uncle"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Aunt",
+		"slug": "aunt",
+		"parents": [
+			"people"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I love my aunt"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I want to see my aunt"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Teacher",
+		"slug": "teacher",
+		"parents": [
+			"people",
+			"school"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I love my teacher"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I want to see my teacher"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Therapist",
+		"slug": "therapist",
+		"parents": [
+			"people"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I love my therapist"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I want to see my therapist"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Doctor",
+		"slug": "doctor",
+		"parents": [
+			"people"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I love my doctor"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I want to see my doctor"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Policeman",
+		"slug": "policeman",
+		"parents": [
+			"people"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "Call the police."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Thanks for your services."
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Firefighter",
+		"slug": "firefighter",
+		"parents": [
+			"people"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "Call the firefighter."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Thanks for your services."
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Friends",
+		"slug": "friends",
+		"parents": [
+			"people"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I love my friends"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I don't like my friends"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I want to see my friends"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I want to talk to my friends"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Book",
+		"slug": "book",
+		"parents": [
+			"school"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I'm reading my book"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Can you give me my book?"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Pen",
+		"slug": "pen",
+		"parents": [
+			"school"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I can't find my pen."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I'm writing with my pen."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Can you lend me a pen?"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Can you give me my pen?"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Notebook",
+		"slug": "notebook",
+		"parents": [
+			"school"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I'm taking notes to my notebook"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Can you give me my notebook?"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Pencil",
+		"slug": "pencil",
+		"parents": [
+			"school"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I'm writing with my pencil."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I can't find my pencil."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Can you give me my pencil?"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Can you lend me a pencil?"
+			},
+		]
+	},
+	{
+		"type": "card",
+		"title": "Blackboard",
+		"slug": "blackboard",
+		"parents": [
+			"school"
+		]
+	},
+	{
+		"type": "card",
+		"title": "Lesson",
+		"slug": "lesson",
+		"parents": [
+			"school"
+		]
+	},
+	{
+		"type": "card",
+		"title": "Quiet",
+		"slug": "quiet",
+		"parents": [
+			"school"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I need to be quiet in lessons"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "You need to be quiet in lessons"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Mathematics",
+		"slug": "mathematics",
+		"parents": [
+			"school"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I like mathematics."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I want to learn mathematics."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I am facing a problem in solving a question."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I can solve this problem."
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "History",
+		"slug": "history",
+		"parents": [
+			"school"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I like history."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I want to learn history."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I am facing a problem in solving a question."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I can solve this problem."
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Science",
+		"slug": "science",
+		"parents": [
+			"school"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I like science."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I want to learn and understand science."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I am facing a problem in solving a question."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I can solve this problem."
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Geography",
+		"slug": "geography",
+		"parents": [
+			"school"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I like geography."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I want to learn geography."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I am facing a problem in solving a question."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I can solve this problem."
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Literature",
+		"slug": "literature",
+		"parents": [
+			"school"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I like literature"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I want to learn literature"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Question",
+		"slug": "question",
+		"parents": [
+			"school"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I have a question"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Can I ask a question?"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Understand",
+		"slug": "understand",
+		"parents": [
+			"school"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I don't understand"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Can you explain it?"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Homework",
+		"slug": "homework",
+		"parents": [
+			"school"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I need to do my homework"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Can you help me with my homework?"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Dog",
+		"slug": "dog",
+		"parents": [
+			"animals"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I saw a dog."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Where is the dog?"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I like dogs."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I don't like dogs."
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Cat",
+		"slug": "cat",
+		"parents": [
+			"animals"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I saw a cat."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Where is the cat?"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I like cats."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I don't like cats."
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Bird",
+		"slug": "bird",
+		"parents": [
+			"animals"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I saw a bird."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Where is the bird?"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I like birds."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I don't like birds."
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Bull",
+		"slug": "bull",
+		"parents": [
+			"animals"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I saw a bull."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I am afraid of bulss"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Camel",
+		"slug": "camel",
+		"parents": [
+			"animals"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I saw a camel."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "How can camels live in the desert?"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I want to ride a camel"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Cow",
+		"slug": "cow",
+		"parents": [
+			"animals"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I saw a cow."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Cows give us milk."
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Crab",
+		"slug": "crab",
+		"parents": [
+			"animals"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I saw a crab."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Can we eat a crab?"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Crocodile",
+		"slug": "crocodile",
+		"parents": [
+			"animals"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I saw a crocodile."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I am afraid of crocodiles."
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Dolphin",
+		"slug": "dolphin",
+		"parents": [
+			"animals"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I saw a dolphin."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Can we go visit the zoo?"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I like dolphins."
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Duck",
+		"slug": "duck",
+		"parents": [
+			"animals"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I saw a duck."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Can I feed the ducks?"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I like ducks."
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Elephant",
+		"slug": "elephant",
+		"parents": [
+			"animals"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I saw an elephant."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Can we go to the zoo to see elephants?"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I like elephants."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Where do elephants live?"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Fish",
+		"slug": "fish",
+		"parents": [
+			"animals"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I saw a fish."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I want to go fishing."
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Frog",
+		"slug": "frog",
+		"parents": [
+			"animals"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I saw a frog."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "What do frogs eat?"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I like frogs."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I don't like frogs."
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Giraffe",
+		"slug": "giraffe",
+		"parents": [
+			"animals"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I saw a giraffe."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Can we go to the zoo to see a giraffe?"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I like giraffes."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I don't like giraffes."
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Goat",
+		"slug": "goat",
+		"parents": [
+			"animals"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I saw a goat."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "What do goats eat?"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I like goats."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I don't like goats."
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Hen",
+		"slug": "hen",
+		"parents": [
+			"animals"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I saw a hen."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "When will the hen lay eggs?"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Horse",
+		"slug": "horse",
+		"parents": [
+			"animals"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I saw a horse."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I want to ride a horse"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I like horses."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I want to learn horse riding."
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Lion",
+		"slug": "lion",
+		"parents": [
+			"animals"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I saw a lion in the zoo."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Can we go to the zoo to see the lion?"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "What do lions eat?"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Lobster",
+		"slug": "lobster",
+		"parents": [
+			"animals"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I saw a lobster."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Can we eat a lobster?"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Monkey",
+		"slug": "monkey",
+		"parents": [
+			"animals"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I saw a monkey."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I want to see a monkey."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I like monkeys."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I don't like monkeys."
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Mouse",
+		"slug": "mouse",
+		"parents": [
+			"animals"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I saw a mouse."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Where did the mouse go?"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I like mice."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I don't like mice."
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Octopus",
+		"slug": "octopus",
+		"parents": [
+			"animals"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I saw an octopus."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "What does an octopus eat?."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Where does an octopus live?"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Bear",
+		"slug": "bear",
+		"parents": [
+			"animals"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I saw a bear."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Can we go and visit the bear at the zoo"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "What do bears eat?"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Where do bears live?"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Owl",
+		"slug": "owl",
+		"parents": [
+			"animals"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I saw an owl."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "What do owls eat?"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I like owls."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I don't like owls."
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Panda",
+		"slug": "panda",
+		"parents": [
+			"animals"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I saw a panda."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Where do pandas live?"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I love pandas."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "What do pandas eat?"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Can we go to the zoo to see the pandas?"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Pig",
+		"slug": "pig",
+		"parents": [
+			"animals"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I saw a pig."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Where do pigs live?"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "What do pigs eat?"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Rabbit",
+		"slug": "rabbit",
+		"parents": [
+			"animals"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I saw a rabbit."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Where do rabbits live?"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I love rabbits."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "What do rabbits eat?"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Reindeer",
+		"slug": "reindeer",
+		"parents": [
+			"animals"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I saw a reindeer."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Where do reindeers live?"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I love reindeers."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "What do reindeers eat?"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Shark",
+		"slug": "shark",
+		"parents": [
+			"animals"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I saw a shark."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Where do sharks live?"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "What do sharks eat?"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Sheep",
+		"slug": "sheep",
+		"parents": [
+			"animals"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I saw a sheep."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "We get wool from sheeps."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I like sheeps."
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Tiger",
+		"slug": "tiger",
+		"parents": [
+			"animals"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I saw a tiger."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Where do tigers live?"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Can we go to the zoo to see tigers?"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "What do tigers eat?"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Tortoise",
+		"slug": "tortoise",
+		"parents": [
+			"animals"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I saw a tortoise."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "I love tortoises."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "What do tortoises eat?"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Zebra",
+		"slug": "zebra",
+		"parents": [
+			"animals"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I saw a zebra."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Where do zebras live?"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Can we go to the zoo to see zebras?"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "What do zebras eat?"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Walking",
+		"slug": "walking",
+		"parents": [
+			"activities"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "Let's walk around"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Can we go for a walk?"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Running",
+		"slug": "running",
+		"parents": [
+			"activities"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I like running"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Can we go running?"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Talking",
+		"slug": "talking",
+		"parents": [
+			"activities"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I like talking"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Can we talk?"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Reading",
+		"slug": "reading",
+		"parents": [
+			"activities"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I like reading."
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Can you help me read?"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Football",
+		"slug": "football",
+		"parents": [
+			"activities"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I like playing football"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Let's play football"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Basketball",
+		"slug": "basketball",
+		"parents": [
+			"activities"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I like playing basketball"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Let's play basketball"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Swimming",
+		"slug": "swimming",
+		"parents": [
+			"activities"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I like swimming"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Can we go swimming?"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Tennis",
+		"slug": "tennis",
+		"parents": [
+			"activities"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I like playing tennis"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Can we play tennis together?"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Cycling",
+		"slug": "cycling",
+		"parents": [
+			"activities"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I like cycling"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Can we go cycling together?"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Skating",
+		"slug": "skating",
+		"parents": [
+			"activities"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I like skating"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Do you want to skate with me?"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Sightseeing",
+		"slug": "sightseeing",
+		"parents": [
+			"activities"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I like sightseeing"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Can we go sightseeing together?"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Video Games",
+		"slug": "videogames",
+		"parents": [
+			"activities"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I like playing video games"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Can I play video games?"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Tidying",
+		"slug": "tidying",
+		"parents": [
+			"activities"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I like tidying my room"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Can you help me tidy my room?"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Toys",
+		"slug": "toys",
+		"parents": [
+			"activities"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I like playing with my toys"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Do you want to play with my toys?"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Puzzle",
+		"slug": "puzzle",
+		"parents": [
+			"activities"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I like solving puzzles"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Do you want to solve a puzzle together?"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Comics",
+		"slug": "comics",
+		"parents": [
+			"activities"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I like reading comic books"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Do you want to read comics with me?"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Chess",
+		"slug": "chess",
+		"parents": [
+			"activities"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I like playing chess"
+			},
+			{
+				"symbol": "hand",
+				"phrase": "Do you want to play chess with me?"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "One",
+		"slug": "one",
+		"parents": [
+			"numbers"
+		]
+	},
+	{
+		"type": "card",
+		"title": "Two",
+		"slug": "two",
+		"parents": [
+			"numbers"
+		]
+	},
+	{
+		"type": "card",
+		"title": "Three",
+		"slug": "three",
+		"parents": [
+			"numbers"
+		]
+	},
+	{
+		"type": "card",
+		"title": "Four",
+		"slug": "four",
+		"parents": [
+			"numbers"
+		]
+	},
+	{
+		"type": "card",
+		"title": "Five",
+		"slug": "five",
+		"parents": [
+			"numbers"
+		]
+	},
+	{
+		"type": "card",
+		"title": "Six",
+		"slug": "six",
+		"parents": [
+			"numbers"
+		]
+	},
+	{
+		"type": "card",
+		"title": "Seven",
+		"slug": "seven",
+		"parents": [
+			"numbers"
+		]
+	},
+	{
+		"type": "card",
+		"title": "Eight",
+		"slug": "eight",
+		"parents": [
+			"numbers"
+		]
+	},
+	{
+		"type": "card",
+		"title": "Nine",
+		"slug": "nine",
+		"parents": [
+			"numbers"
+		]
+	},
+	{
+		"type": "card",
+		"title": "Ten",
+		"slug": "ten",
+		"parents": [
+			"numbers"
+		]
+	},
+	{
+		"type": "card",
+		"title": "Twenty",
+		"slug": "twenty",
+		"parents": [
+			"numbers"
+		]
+	},
+	{
+		"type": "card",
+		"title": "Thirty",
+		"slug": "thirty",
+		"parents": [
+			"numbers"
+		]
+	},
+	{
+		"type": "card",
+		"title": "Forty",
+		"slug": "forty",
+		"parents": [
+			"numbers"
+		]
+	},
+	{
+		"type": "card",
+		"title": "Fifty",
+		"slug": "fifty",
+		"parents": [
+			"numbers"
+		]
+	},
+	{
+		"type": "card",
+		"title": "Sixty",
+		"slug": "sixty",
+		"parents": [
+			"numbers"
+		]
+	},
+	{
+		"type": "card",
+		"title": "Seventy",
+		"slug": "seventy",
+		"parents": [
+			"numbers"
+		]
+	},
+	{
+		"type": "card",
+		"title": "Eighty",
+		"slug": "eighty",
+		"parents": [
+			"numbers"
+		]
+	},
+	{
+		"type": "card",
+		"title": "Ninety",
+		"slug": "ninety",
+		"parents": [
+			"numbers"
+		]
+	},
+	{
+		"type": "card",
+		"title": "One hundred",
+		"slug": "hundred",
+		"parents": [
+			"numbers"
+		]
+	},
+	{
+		"type": "card",
+		"title": "Calculator",
+		"slug": "calculator",
+		"parents": [
+			"numbers"
+		]
+	}
+]

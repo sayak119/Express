@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "Express",
+    "slug": "express",
+    "icon": "./assets/icon.png",
+    "version": "1.0.0",
+    "sdkVersion": "23.0.0",
+    "privacy": "public",
+    "loading": {
+      "icon": "assets/icon.png",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "bundleIdentifier": "sayak119.github.io"
+    },
+    "android": {
+      "package": "sayak119.github.io",
+      "permissions": ["WAKE_LOCK"],
+      "versionCode": 120
+    }
+  }
+}
