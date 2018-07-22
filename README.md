@@ -19,11 +19,21 @@ Speech is the most important form of communication. In this age of connectivity,
 
  This can be helpful in everyday life in various scenarios like kids who lie in the autism spectrum can use it to communicate with their parents, teachers, friends, etc and ask them for help or express their feelings. People with dementia can use it to remember family members or helpers or ask for day to day things and places. People who are learning sign languages, in their early stage, can use it to communicate or can also use it to communicate with other people who don't know sign language. It will help the community to become understandable.
 
-It is a multi language app so that its reach can become global.
+It is a **multilingual** app so that its reach can become global.
 
 ## How I built it
 
-First of all we searched about the various problems which are in the community and which hinders communication. We came to know what problems people face when they can't use their voice or even facial expressions to express themselves properly or to just simply interact. We are a group of students and we came up with this idea. Built using react-native, reactjs, google-translate and expo.
+First of all we searched about the various problems which are in the community and which hinders communication. We came to know what problems people face when they can't use their voice or even facial expressions to express themselves properly or to just simply interact. We are a group of students and we came up with this idea. Built using react-native, reactjs, google-translate and expo. It has various sections like -
+
+* Alphabets
+* General day to day use
+* Feelings
+* Places
+* Foods
+* Animals
+* School
+* Numbers
+* Play time
 
 ## Challenges I ran into
 
