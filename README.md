@@ -23,11 +23,11 @@ It is a multi language app so that its reach can become global.
 
 ## How I built it
 
-First of all we searched about the various problems which are in the community and which hinders communication. We are a group of students and we came up with this idea. Built using react-native and expo.
+First of all we searched about the various problems which are in the community and which hinders communication. We came to know what problems people face when they can't use their voice or even facial expressions to express themselves properly or to just simply interact. We are a group of students and we came up with this idea. Built using react-native, reactjs, google-translate and expo.
 
 ## Challenges I ran into
 
-We are fairly new to react-native and expo and setting up was one of he challenges
+We are fairly new to react-native and expo and setting up was one of the challenges.
 
 ## Accomplishments that I'm proud of
 
@@ -62,3 +62,5 @@ exp publish
 ## What's next for Express
 
 I will try to add sign languages and add more languages.
+
+**The images were taken from [Flaticon](https://www.flaticon.com/)**
