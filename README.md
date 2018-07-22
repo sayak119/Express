@@ -19,7 +19,7 @@ Speech is the most important form of communication. In this age of connectivity,
 
  This can be helpful in everyday life in various scenarios like kids who lie in the autism spectrum can use it to communicate with their parents, teachers, friends, etc and ask them for help or express their feelings. People with dementia can use it to remember family members or helpers or ask for day to day things and places. People who are learning sign languages, in their early stage, can use it to communicate or can also use it to communicate with other people who don't know sign language. It will help the community to become understandable.
 
-It is a **multilingual** app so that its reach can become global.
+Being a **multilingual** app, it has huge potential and can impact many lives irrelevant of the borders.
 
 ## How I built it
 
