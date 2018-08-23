@@ -70,6 +70,587 @@
 		"color": "#AF73F3"
 	},
 	{
+		"type": "group",
+		"title": "ASL",
+		"slug": "asl",
+		"parents": [],
+		"color": "#E45B3F"
+	},
+	{
+		"type": "card",
+		"title": "Mom",
+		"slug": "aslmom",
+		"parents": [
+			"asl"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "Mom"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Dad",
+		"slug": "asldad",
+		"parents": [
+			"asl"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "Dad"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Eat",
+		"slug": "asleat",
+		"parents": [
+			"asl"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "Eat or Hungry"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Home",
+		"slug": "aslhome",
+		"parents": [
+			"asl"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "Home"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "A",
+		"slug": "aslA",
+		"parents": [
+			"asl"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "A"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "B",
+		"slug": "aslB",
+		"parents": [
+			"asl"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "B"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "C",
+		"slug": "aslC",
+		"parents": [
+			"asl"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "C"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "D",
+		"slug": "aslD",
+		"parents": [
+			"asl"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "D"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "E",
+		"slug": "aslE",
+		"parents": [
+			"asl"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "E"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "F",
+		"slug": "aslF",
+		"parents": [
+			"asl"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "F"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "G",
+		"slug": "aslG",
+		"parents": [
+			"asl"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "G"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "H",
+		"slug": "aslH",
+		"parents": [
+			"asl"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "H"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "I",
+		"slug": "aslI",
+		"parents": [
+			"asl"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "I"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "J",
+		"slug": "aslJ",
+		"parents": [
+			"asl"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "J"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "K",
+		"slug": "aslK",
+		"parents": [
+			"asl"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "K"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "L",
+		"slug": "aslL",
+		"parents": [
+			"asl"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "L"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "M",
+		"slug": "aslM",
+		"parents": [
+			"asl"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "M"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "N",
+		"slug": "aslN",
+		"parents": [
+			"asl"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "N"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "O",
+		"slug": "aslO",
+		"parents": [
+			"asl"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "O"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "P",
+		"slug": "aslP",
+		"parents": [
+			"asl"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "P"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Q",
+		"slug": "aslQ",
+		"parents": [
+			"asl"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "Q"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "R",
+		"slug": "aslR",
+		"parents": [
+			"asl"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "R"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "S",
+		"slug": "aslS",
+		"parents": [
+			"asl"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "S"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "T",
+		"slug": "aslT",
+		"parents": [
+			"asl"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "T"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "U",
+		"slug": "aslU",
+		"parents": [
+			"asl"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "U"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "V",
+		"slug": "aslV",
+		"parents": [
+			"asl"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "V"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "W",
+		"slug": "aslW",
+		"parents": [
+			"asl"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "W"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "X",
+		"slug": "aslX",
+		"parents": [
+			"asl"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "X"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Y",
+		"slug": "aslY",
+		"parents": [
+			"asl"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "Y"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Z",
+		"slug": "aslZ",
+		"parents": [
+			"asl"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "Z"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Zero",
+		"slug": "asl0",
+		"parents": [
+			"asl"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "0"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "One",
+		"slug": "asl1",
+		"parents": [
+			"asl"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "1"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Two",
+		"slug": "asl2",
+		"parents": [
+			"asl"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "2"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Three",
+		"slug": "asl3",
+		"parents": [
+			"asl"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "3"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Four",
+		"slug": "asl4",
+		"parents": [
+			"asl"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "4"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Five",
+		"slug": "asl5",
+		"parents": [
+			"asl"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "5"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Six",
+		"slug": "asl6",
+		"parents": [
+			"asl"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "6"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Seven",
+		"slug": "asl7",
+		"parents": [
+			"asl"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "7"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Eight",
+		"slug": "asl8",
+		"parents": [
+			"asl"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "8"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Nine",
+		"slug": "asl9",
+		"parents": [
+			"asl"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "9"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Ten",
+		"slug": "asl10",
+		"parents": [
+			"asl"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "10"
+			}
+		]
+	},
+	{
 		"type": "card",
 		"title": "School",
 		"slug": "schoolb",
