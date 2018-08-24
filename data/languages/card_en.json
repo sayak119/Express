@@ -134,6 +134,48 @@
 	},
 	{
 		"type": "card",
+		"title": "Help",
+		"slug": "aslhelp",
+		"parents": [
+			"asl"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "Help"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "No",
+		"slug": "aslno",
+		"parents": [
+			"asl"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "No"
+			}
+		]
+	},
+	{
+		"type": "card",
+		"title": "Yes",
+		"slug": "aslyes",
+		"parents": [
+			"asl"
+		],
+		"phrases": [
+			{
+				"symbol": "hand",
+				"phrase": "Yes"
+			}
+		]
+	},
+	{
+		"type": "card",
 		"title": "A",
 		"slug": "aslA",
 		"parents": [

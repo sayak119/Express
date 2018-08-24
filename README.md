@@ -34,6 +34,7 @@ First of all we searched about the various problems which are in the community a
 * School
 * Numbers
 * Play time
+* Sign Language (coming soon foother languages too)
 
 ## Challenges I ran into
 
@@ -45,7 +46,7 @@ The app works
 
 ## Installation
 
-* Clone the directory 
+* Clone the directory
 
 `git clone https://github.com/sayak119/Express.git`
 * Then run the following commands
