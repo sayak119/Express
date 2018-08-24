@@ -74,4 +74,8 @@ exp publish
 
 I will try to add sign languages and add more languages.
 
+## Test
+
+You can try the app [here](https://expo.io/@sayak119/express)
+
 **The images were taken from [Flaticon](https://www.flaticon.com/)**
