@@ -34,7 +34,7 @@ First of all we searched about the various problems which are in the community a
 * School
 * Numbers
 * Play time
-* Sign Language (coming soon foother languages too)
+* Sign Language (ASL added. Coming soon foother languages too)
 
 ## Challenges I ran into
 
