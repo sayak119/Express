@@ -21,7 +21,7 @@
   "dependencies": {
     "balanced-match": "^1.0.0",
     "brace-expansion": "^1.1.11",
-    "expo": "^23.0.0",
+    "expo": "^30.0.0",
     "minimatch": "^3.0.4",
     "minimist": "0.0.8",
     "mkdirp": "^0.5.1",
